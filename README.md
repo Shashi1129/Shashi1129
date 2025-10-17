@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashini Ekanayaka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">IT undergraduate passionate about Full-Stack Web Development, Data Analytics, Cloud Technologies, Networking, Cybersecurity, and Software Engineering.</h3>
 
 
 ---
 
-
-- 🌱 I’m currently learning **PHP, Laravel, Java Script**
 
 - 📫 How to reach me **shashile24@gmail.com**
 
